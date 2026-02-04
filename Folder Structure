@@ -1,0 +1,8 @@
+ZivraProduct/
+│
+├── index.html      (Home)
+├── shop.html       (Shop Products)
+├── about.html      (About Us)
+├── contact.html    (Contact)
+├── style.css       (Shared CSS)
+└── images/        (Product images, optional)
